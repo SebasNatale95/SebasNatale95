@@ -1,4 +1,4 @@
-_My phone got stolen and I lost access to @SebasNatale. This is my new, official account!_
+This profile is kinda dead since I'm currently taking a break from code to focus on networking, but I'm keeping it around to archive scripts and stuff.
 
 ![CV](https://github.com/SebasNatale95/SebasNatale95/blob/main/CV.jpg)
 
